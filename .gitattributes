@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Evaluation/public/assets/css/*.css linguist-vendored
+Evaluation/resources/views/Header/*.blade.php linguist-vendored
